@@ -1,0 +1,2 @@
+# PREDICTION_GOALS
+ El objetivo de este proyecto es intentar extraer conclusiones, buscar relación entre distintas estadísticas e intentar predecir el número de goles marcados por los equipos durante esta temporada. Para ello, se han recopilado estadísticas de todos los equipos de las cinco grandes ligas europeas (España, Inglaterra, Alemania, Italia y Francia) desde la temporada 2018/19 hasta la actual.
