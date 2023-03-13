@@ -1,0 +1,295 @@
+Club,Nº jugadores,Edad,Extranjeros,Media valor mercado,Valor de mercado,Año,Liga
+Barcelona,32,25.1,20,25.42 mill. €,813.50 mill. €,2020,laliga
+Real Madrid,37,24.8,17,21.28 mill. €,787.30 mill. €,2020,laliga
+Atletico Madrid,39,24.9,21,19.82 mill. €,773.10 mill. €,2020,laliga
+Sevilla,38,25.6,17,11.01 mill. €,418.25 mill. €,2020,laliga
+Real Sociedad,38,24.7,6,10.70 mill. €,406.60 mill. €,2020,laliga
+Villarreal,36,25.9,13,8.13 mill. €,292.60 mill. €,2020,laliga
+Valencia,35,24.7,20,7.97 mill. €,278.85 mill. €,2020,laliga
+Real Betis,33,26.8,12,6.29 mill. €,207.70 mill. €,2020,laliga
+Athletic Club,32,25.9,2,6.38 mill. €,204.15 mill. €,2020,laliga
+Getafe,33,25.4,19,5.15 mill. €,170.10 mill. €,2020,laliga
+Celta Vigo,41,24.3,12,3.80 mill. €,155.85 mill. €,2020,laliga
+Granada,44,24.9,17,2.79 mill. €,122.65 mill. €,2020,laliga
+Levante,34,26.5,10,3.32 mill. €,113.00 mill. €,2020,laliga
+Osasuna,36,27,7,2.69 mill. €,96.75 mill. €,2020,laliga
+Eibar,34,27.1,9,2.45 mill. €,83.40 mill. €,2020,laliga
+Alaves,35,25.6,10,2.28 mill. €,79.80 mill. €,2020,laliga
+SD Huesca,34,26.5,8,1.89 mill. €,64.10 mill. €,2020,laliga
+Real Valladolid,39,26.9,9,1.62 mill. €,63.05 mill. €,2020,laliga
+Cadiz,41,27.2,16,1.16 mill. €,47.65 mill. €,2020,laliga
+Elche,42,26.7,15,1.09 mill. €,45.65 mill. €,2020,laliga
+Real Madrid,36,25.7,19,21.41 mill. €,770.75 mill. €,2021,laliga
+Barcelona,47,25.1,23,15.65 mill. €,735.60 mill. €,2021,laliga
+Atletico Madrid,43,25.3,24,15.39 mill. €,661.80 mill. €,2021,laliga
+Villarreal,39,26,15,10.48 mill. €,408.90 mill. €,2021,laliga
+Sevilla,43,25.7,21,8.95 mill. €,385.00 mill. €,2021,laliga
+Real Sociedad,40,24.7,8,9.42 mill. €,376.95 mill. €,2021,laliga
+Valencia,44,23.6,20,7.06 mill. €,310.60 mill. €,2021,laliga
+Real Betis,38,27.4,13,6.82 mill. €,259.00 mill. €,2021,laliga
+Athletic Club,31,25.7,1,7.29 mill. €,226.05 mill. €,2021,laliga
+Getafe,43,25.2,18,4.85 mill. €,208.68 mill. €,2021,laliga
+Espanyol,38,25.4,7,3.46 mill. €,131.60 mill. €,2021,laliga
+Celta Vigo,34,25.5,11,3.53 mill. €,120.00 mill. €,2021,laliga
+Osasuna,32,26.9,4,3.39 mill. €,108.45 mill. €,2021,laliga
+Granada,39,26.5,16,2.66 mill. €,103.75 mill. €,2021,laliga
+Levante,42,26.3,12,1.85 mill. €,77.90 mill. €,2021,laliga
+Mallorca,41,25.7,15,1.81 mill. €,74.15 mill. €,2021,laliga
+Elche,37,27.4,13,1.97 mill. €,72.98 mill. €,2021,laliga
+Cadiz,37,27.3,14,1.83 mill. €,67.80 mill. €,2021,laliga
+Rayo Vallecano,36,26.2,14,1.87 mill. €,67.20 mill. €,2021,laliga
+Alaves,43,25.1,15,1.52 mill. €,65.35 mill. €,2021,laliga
+Real Madrid,23,27.9,16,36.91 mill. €,849.00 mill. €,2022,laliga
+Barcelona,23,25.2,9,33.78 mill. €,777.00 mill. €,2022,laliga
+Atletico Madrid,22,28.4,15,21.82 mill. €,480.00 mill. €,2022,laliga
+Real Sociedad,26,25.3,5,14.63 mill. €,380.50 mill. €,2022,laliga
+Villarreal,23,28.2,9,12.77 mill. €,293.70 mill. €,2022,laliga
+Real Betis,27,28.5,13,9.63 mill. €,260.00 mill. €,2022,laliga
+Valencia,25,24.9,14,9.98 mill. €,249.50 mill. €,2022,laliga
+Sevilla,25,28.7,19,9.20 mill. €,230.00 mill. €,2022,laliga
+Athletic Club,26,27.3,1,8.63 mill. €,224.30 mill. €,2022,laliga
+Getafe,25,27.4,12,5.69 mill. €,142.20 mill. €,2022,laliga
+Osasuna,21,27.8,4,5.91 mill. €,124.20 mill. €,2022,laliga
+Celta Vigo,22,26.2,9,5.65 mill. €,124.20 mill. €,2022,laliga
+Girona,25,26.4,11,4.59 mill. €,114.70 mill. €,2022,laliga
+Almeria,29,25.5,15,3.46 mill. €,100.20 mill. €,2022,laliga
+Espanyol,25,25.3,7,3.96 mill. €,98.90 mill. €,2022,laliga
+Rayo Vallecano,27,28.4,10,3.39 mill. €,91.50 mill. €,2022,laliga
+Mallorca,24,27.8,14,3.26 mill. €,78.30 mill. €,2022,laliga
+Real Valladolid,27,27.9,12,2.59 mill. €,69.80 mill. €,2022,laliga
+Elche,25,27.4,9,2.68 mill. €,66.90 mill. €,2022,laliga
+Cadiz,27,28.9,9,2.14 mill. €,57.70 mill. €,2022,laliga
+Manchester City,36,24.9,23,29.01 mill. €,1.04 mil mill. €,2020,premier-league
+Liverpool,43,24.4,28,22.55 mill. €,969.65 mill. €,2020,premier-league
+Chelsea,39,25.2,23,22.80 mill. €,889.20 mill. €,2020,premier-league
+Manchester United,39,24.9,24,19.74 mill. €,770.05 mill. €,2020,premier-league
+Tottenham,41,24.6,23,17.16 mill. €,703.50 mill. €,2020,premier-league
+Arsenal,42,24.4,26,14.74 mill. €,619.25 mill. €,2020,premier-league
+Everton,44,24.7,26,11.62 mill. €,511.20 mill. €,2020,premier-league
+Leicester,40,25.3,25,12.77 mill. €,510.70 mill. €,2020,premier-league
+Wolverhampton Wanderers,38,23.9,32,11.85 mill. €,450.30 mill. €,2020,premier-league
+Aston Villa,53,23.3,24,8.13 mill. €,430.75 mill. €,2020,premier-league
+West Ham,39,26.5,23,8.59 mill. €,334.90 mill. €,2020,premier-league
+Brighton,46,24.3,29,6.31 mill. €,290.40 mill. €,2020,premier-league
+Southampton,39,24.5,20,7.25 mill. €,282.80 mill. €,2020,premier-league
+Newcastle United,33,26.9,18,7.74 mill. €,255.35 mill. €,2020,premier-league
+Fulham,38,26.4,30,6.31 mill. €,239.75 mill. €,2020,premier-league
+Leeds,39,24.5,23,6.11 mill. €,238.10 mill. €,2020,premier-league
+Crystal Palace,36,27.7,18,5.38 mill. €,193.85 mill. €,2020,premier-league
+Sheffield United,40,24.9,15,3.75 mill. €,149.85 mill. €,2020,premier-league
+West Bromwich Albion,43,26.1,17,3.28 mill. €,141.15 mill. €,2020,premier-league
+Burnley,32,26.6,11,4.13 mill. €,132.30 mill. €,2020,premier-league
+Manchester City,39,24.3,23,25.74 mill. €,1.00 mil mill. €,2021,premier-league
+Liverpool,49,24,28,18.75 mill. €,918.90 mill. €,2021,premier-league
+Chelsea,44,25.1,25,20.78 mill. €,914.50 mill. €,2021,premier-league
+Manchester United,43,25.5,28,17.89 mill. €,769.15 mill. €,2021,premier-league
+Tottenham,45,23.5,26,15.32 mill. €,689.35 mill. €,2021,premier-league
+Arsenal,41,23.4,24,14.95 mill. €,613.05 mill. €,2021,premier-league
+Leicester,40,25.1,24,13.16 mill. €,526.55 mill. €,2021,premier-league
+Aston Villa,44,24.2,21,11.09 mill. €,487.75 mill. €,2021,premier-league
+Everton,42,25.5,22,11.41 mill. €,479.05 mill. €,2021,premier-league
+Wolverhampton Wanderers,38,24.4,30,9.92 mill. €,376.95 mill. €,2021,premier-league
+West Ham,36,26,20,9.86 mill. €,354.90 mill. €,2021,premier-league
+Brighton,43,24.1,30,7.40 mill. €,318.00 mill. €,2021,premier-league
+Newcastle United,34,27.4,18,9.23 mill. €,313.90 mill. €,2021,premier-league
+Leeds,35,23.5,18,8.56 mill. €,299.45 mill. €,2021,premier-league
+Southampton,33,25.1,18,8.31 mill. €,274.30 mill. €,2021,premier-league
+Brentford,38,24.3,26,7.19 mill. €,273.30 mill. €,2021,premier-league
+Crystal Palace,33,25.9,16,8.21 mill. €,271.05 mill. €,2021,premier-league
+Norwich,45,24.2,28,3.63 mill. €,163.20 mill. €,2021,premier-league
+Watford,47,25.8,36,3.32 mill. €,156.20 mill. €,2021,premier-league
+Burnley,35,27.3,16,3.94 mill. €,138.05 mill. €,2021,premier-league
+Manchester City,25,26.7,17,44.75 mill. €,1.12 mil mill. €,2022,premier-league
+Chelsea,33,25.3,22,31.05 mill. €,1.02 mil mill. €,2022,premier-league
+Liverpool,30,26.4,21,31.03 mill. €,931.00 mill. €,2022,premier-league
+Arsenal,25,24.7,18,31.88 mill. €,797.00 mill. €,2022,premier-league
+Manchester United,29,26.1,18,25.59 mill. €,742.10 mill. €,2022,premier-league
+Tottenham,27,26.3,18,26.79 mill. €,723.30 mill. €,2022,premier-league
+Newcastle United,30,27.5,16,16.10 mill. €,482.90 mill. €,2022,premier-league
+West Ham,23,27.6,17,20.54 mill. €,472.50 mill. €,2022,premier-league
+Leicester,28,27.1,19,16.33 mill. €,457.10 mill. €,2022,premier-league
+Aston Villa,23,27.4,16,19.16 mill. €,440.60 mill. €,2022,premier-league
+Wolverhampton Wanderers,31,25.5,27,12.92 mill. €,400.50 mill. €,2022,premier-league
+Everton,26,27.6,12,14.17 mill. €,368.30 mill. €,2022,premier-league
+Southampton,28,25.2,19,12.66 mill. €,354.50 mill. €,2022,premier-league
+Brentford,25,25.4,20,12.68 mill. €,317.10 mill. €,2022,premier-league
+Nottingham Forest,34,26.8,21,9.29 mill. €,315.90 mill. €,2022,premier-league
+Brighton,24,24.8,17,12.86 mill. €,308.60 mill. €,2022,premier-league
+Crystal Palace,22,27.5,13,13.12 mill. €,288.70 mill. €,2022,premier-league
+Leeds,25,25.8,20,11.52 mill. €,288.00 mill. €,2022,premier-league
+Fulham,24,27.9,20,10.00 mill. €,240.00 mill. €,2022,premier-league
+Bournemouth,26,26.7,14,7.26 mill. €,188.70 mill. €,2022,premier-league
+Bayern Munich,45,23.9,22,19.07 mill. €,858.23 mill. €,2020,bundesliga
+Borussia Dortmund,32,25,16,19.64 mill. €,628.40 mill. €,2020,bundesliga
+RasenBallsport Leipzig,32,23.7,22,17.97 mill. €,574.95 mill. €,2020,bundesliga
+Bayer Leverkusen,33,25,22,11.31 mill. €,373.25 mill. €,2020,bundesliga
+Borussia M.Gladbach,33,25.7,19,9.11 mill. €,300.75 mill. €,2020,bundesliga
+Eintracht Frankfurt,36,25.6,24,7.48 mill. €,269.15 mill. €,2020,bundesliga
+Wolfsburg,30,26,20,8.56 mill. €,256.83 mill. €,2020,bundesliga
+Hertha Berlin,38,24.4,20,6.02 mill. €,228.88 mill. €,2020,bundesliga
+Hoffenheim,37,25.1,25,6.17 mill. €,228.15 mill. €,2020,bundesliga
+VfB Stuttgart,32,23.8,16,5.91 mill. €,189.25 mill. €,2020,bundesliga
+Mainz 05,36,24.9,18,4.54 mill. €,163.30 mill. €,2020,bundesliga
+Freiburg,30,25.2,13,4.64 mill. €,139.10 mill. €,2020,bundesliga
+Schalke 04,45,24.8,26,2.73 mill. €,123.05 mill. €,2020,bundesliga
+FC Cologne,36,24.9,17,3.28 mill. €,118.20 mill. €,2020,bundesliga
+Werder Bremen,33,25.2,15,3.39 mill. €,111.98 mill. €,2020,bundesliga
+Augsburg,31,25.8,18,3.00 mill. €,93.05 mill. €,2020,bundesliga
+Union Berlin,33,25.8,10,2.49 mill. €,82.05 mill. €,2020,bundesliga
+Arminia Bielefeld,33,24.9,15,1.72 mill. €,56.73 mill. €,2020,bundesliga
+Bayern Munich,38,24.7,21,20.80 mill. €,790.33 mill. €,2021,bundesliga
+Borussia Dortmund,44,23.9,24,12.70 mill. €,558.98 mill. €,2021,bundesliga
+RasenBallsport Leipzig,34,23.9,23,14.68 mill. €,498.95 mill. €,2021,bundesliga
+Bayer Leverkusen,35,24.6,24,13.00 mill. €,455.05 mill. €,2021,bundesliga
+Wolfsburg,37,25.3,24,7.28 mill. €,269.30 mill. €,2021,bundesliga
+Borussia M.Gladbach,31,25.4,15,7.64 mill. €,236.80 mill. €,2021,bundesliga
+Eintracht Frankfurt,36,25.2,23,6.35 mill. €,228.75 mill. €,2021,bundesliga
+Hoffenheim,40,24.9,21,5.29 mill. €,211.43 mill. €,2021,bundesliga
+Freiburg,32,25,12,5.51 mill. €,176.35 mill. €,2021,bundesliga
+VfB Stuttgart,39,23.5,21,4.47 mill. €,174.23 mill. €,2021,bundesliga
+Hertha Berlin,45,24.7,20,3.46 mill. €,155.73 mill. €,2021,bundesliga
+Mainz 05,34,24.9,17,3.85 mill. €,131.03 mill. €,2021,bundesliga
+Union Berlin,40,26.6,15,2.90 mill. €,115.90 mill. €,2021,bundesliga
+FC Cologne,31,25.4,12,3.20 mill. €,99.28 mill. €,2021,bundesliga
+Augsburg,32,25.5,19,2.98 mill. €,95.30 mill. €,2021,bundesliga
+Arminia Bielefeld,34,24.6,20,1.94 mill. €,65.85 mill. €,2021,bundesliga
+Bochum,33,27.3,15,1.58 mill. €,52.25 mill. €,2021,bundesliga
+Greuther Fuerth,34,24.6,14,1.09 mill. €,36.95 mill. €,2021,bundesliga
+Bayern Munich,27,26,17,35.03 mill. €,945.70 mill. €,2022,bundesliga
+Borussia Dortmund,34,24.5,17,15.64 mill. €,531.70 mill. €,2022,bundesliga
+RasenBallsport Leipzig,27,25.2,17,18.27 mill. €,493.30 mill. €,2022,bundesliga
+Bayer Leverkusen,30,24.5,22,13.96 mill. €,418.70 mill. €,2022,bundesliga
+Eintracht Frankfurt,30,24.8,19,9.03 mill. €,270.95 mill. €,2022,bundesliga
+Borussia M.Gladbach,27,25.6,15,8.63 mill. €,233.00 mill. €,2022,bundesliga
+Wolfsburg,25,24.2,15,7.53 mill. €,188.20 mill. €,2022,bundesliga
+Hoffenheim,30,25.3,16,5.60 mill. €,167.95 mill. €,2022,bundesliga
+Freiburg,26,25.9,10,6.22 mill. €,161.63 mill. €,2022,bundesliga
+VfB Stuttgart,30,23.3,17,4.30 mill. €,128.85 mill. €,2022,bundesliga
+Mainz 05,29,24.6,14,4.23 mill. €,122.80 mill. €,2022,bundesliga
+Union Berlin,27,27.1,13,4.37 mill. €,117.90 mill. €,2022,bundesliga
+Augsburg,33,25.4,20,3.39 mill. €,111.95 mill. €,2022,bundesliga
+Hertha Berlin,28,25.7,16,3.50 mill. €,97.95 mill. €,2022,bundesliga
+FC Cologne,33,24.5,10,2.91 mill. €,96.03 mill. €,2022,bundesliga
+Werder Bremen,26,24.8,9,2.81 mill. €,73.05 mill. €,2022,bundesliga
+Schalke 04,32,26.9,17,1.80 mill. €,57.60 mill. €,2022,bundesliga
+Bochum,29,27.7,18,1.66 mill. €,48.13 mill. €,2022,bundesliga
+Inter,41,25.2,22,16.19 mill. €,663.90 mill. €,2020,serie-a
+Juventus,45,24.7,26,14.07 mill. €,633.30 mill. €,2020,serie-a
+AC Milan,42,23.9,27,13.04 mill. €,547.78 mill. €,2020,serie-a
+Napoli,32,26,21,16.57 mill. €,530.20 mill. €,2020,serie-a
+Atalanta,39,25,21,11.03 mill. €,430.00 mill. €,2020,serie-a
+Roma,46,24.6,28,8.60 mill. €,395.65 mill. €,2020,serie-a
+Lazio,44,25.6,32,7.42 mill. €,326.33 mill. €,2020,serie-a
+Fiorentina,41,25.7,24,7.00 mill. €,286.80 mill. €,2020,serie-a
+Sassuolo,39,24.9,19,6.20 mill. €,241.74 mill. €,2020,serie-a
+Cagliari,42,25.4,19,4.47 mill. €,187.83 mill. €,2020,serie-a
+Torino,40,25.4,22,4.38 mill. €,175.28 mill. €,2020,serie-a
+Udinese,42,25.8,30,4.12 mill. €,173.00 mill. €,2020,serie-a
+Verona,46,24.2,20,3.42 mill. €,157.21 mill. €,2020,serie-a
+Bologna,45,24.1,28,3.41 mill. €,153.60 mill. €,2020,serie-a
+Parma Calcio 1913,53,25.1,30,2.43 mill. €,128.70 mill. €,2020,serie-a
+Sampdoria,34,26.4,18,3.74 mill. €,127.18 mill. €,2020,serie-a
+Genoa,44,26.5,23,2.54 mill. €,111.93 mill. €,2020,serie-a
+Spezia,39,25.7,17,1.84 mill. €,71.68 mill. €,2020,serie-a
+Crotone,41,26,19,1.29 mill. €,52.75 mill. €,2020,serie-a
+Benevento,36,27.4,14,1.39 mill. €,50.13 mill. €,2020,serie-a
+Juventus,43,25,24,14.94 mill. €,642.50 mill. €,2021,serie-a
+Inter,36,27.2,20,15.52 mill. €,558.55 mill. €,2021,serie-a
+AC Milan,37,25.3,22,14.78 mill. €,546.95 mill. €,2021,serie-a
+Napoli,37,25.3,20,12.90 mill. €,477.23 mill. €,2021,serie-a
+Atalanta,44,24.5,24,9.06 mill. €,398.75 mill. €,2021,serie-a
+Roma,39,23.8,25,9.78 mill. €,381.25 mill. €,2021,serie-a
+Fiorentina,38,25.4,22,8.57 mill. €,325.80 mill. €,2021,serie-a
+Lazio,34,27.2,24,7.78 mill. €,264.48 mill. €,2021,serie-a
+Sassuolo,43,25,22,5.84 mill. €,251.00 mill. €,2021,serie-a
+Torino,41,24.8,25,5.45 mill. €,223.40 mill. €,2021,serie-a
+Bologna,45,23.7,29,4.14 mill. €,186.20 mill. €,2021,serie-a
+Verona,43,24.7,19,3.79 mill. €,162.98 mill. €,2021,serie-a
+Udinese,44,25,26,3.23 mill. €,142.30 mill. €,2021,serie-a
+Cagliari,46,25,23,2.92 mill. €,134.53 mill. €,2021,serie-a
+Sampdoria,46,26.2,19,2.79 mill. €,128.55 mill. €,2021,serie-a
+Empoli,40,24.5,12,3.16 mill. €,126.50 mill. €,2021,serie-a
+Genoa,47,26.1,24,2.58 mill. €,121.28 mill. €,2021,serie-a
+Venezia,51,24.7,35,1.59 mill. €,80.98 mill. €,2021,serie-a
+Spezia,34,23.6,23,2.31 mill. €,78.50 mill. €,2021,serie-a
+Salernitana,51,25.9,26,1.38 mill. €,70.56 mill. €,2021,serie-a
+AC Milan,32,26.3,26,17.95 mill. €,574.40 mill. €,2022,serie-a
+Inter,28,27.7,17,19.87 mill. €,556.45 mill. €,2022,serie-a
+Napoli,27,25.9,19,20.11 mill. €,543.00 mill. €,2022,serie-a
+Juventus,29,26.5,18,16.06 mill. €,465.80 mill. €,2022,serie-a
+Roma,28,25.7,18,12.92 mill. €,361.75 mill. €,2022,serie-a
+Atalanta,26,25.9,17,11.93 mill. €,310.20 mill. €,2022,serie-a
+Lazio,25,27,16,10.19 mill. €,254.65 mill. €,2022,serie-a
+Fiorentina,26,26.2,14,9.07 mill. €,235.75 mill. €,2022,serie-a
+Sassuolo,28,25.5,18,7.13 mill. €,199.60 mill. €,2022,serie-a
+Torino,29,24.2,23,5.59 mill. €,162.18 mill. €,2022,serie-a
+Udinese,25,24.8,20,5.49 mill. €,137.25 mill. €,2022,serie-a
+Bologna,30,25.4,18,4.14 mill. €,124.10 mill. €,2022,serie-a
+Monza,36,26.5,10,3.19 mill. €,114.90 mill. €,2022,serie-a
+Salernitana,30,26.4,19,3.40 mill. €,101.90 mill. €,2022,serie-a
+Empoli,30,24.8,16,3.07 mill. €,92.00 mill. €,2022,serie-a
+Verona,30,26,18,2.76 mill. €,82.65 mill. €,2022,serie-a
+Spezia,30,25.4,23,2.72 mill. €,81.70 mill. €,2022,serie-a
+Lecce,29,23.9,19,2.44 mill. €,70.68 mill. €,2022,serie-a
+Sampdoria,28,26,15,2.39 mill. €,66.83 mill. €,2022,serie-a
+Cremonese,26,25.5,11,2.25 mill. €,58.55 mill. €,2022,serie-a
+Paris Saint Germain,41,24.2,29,19.63 mill. €,805.00 mill. €,2020,ligue-1
+Lyon,40,24.2,28,10.78 mill. €,431.35 mill. €,2020,ligue-1
+Monaco,33,24,18,11.22 mill. €,370.35 mill. €,2020,ligue-1
+Lille,32,23.6,21,10.10 mill. €,323.20 mill. €,2020,ligue-1
+Rennes,37,24.2,12,8.04 mill. €,297.50 mill. €,2020,ligue-1
+Marseille,43,24.2,21,5.85 mill. €,251.40 mill. €,2020,ligue-1
+Nice,41,22.4,16,5.76 mill. €,236.10 mill. €,2020,ligue-1
+Saint-Etienne,43,23.6,17,3.59 mill. €,154.50 mill. €,2020,ligue-1
+Montpellier,34,25.2,14,3.35 mill. €,113.85 mill. €,2020,ligue-1
+Angers,38,25.8,18,2.94 mill. €,111.65 mill. €,2020,ligue-1
+Strasbourg,34,25.2,18,3.23 mill. €,109.65 mill. €,2020,ligue-1
+Bordeaux,36,25.4,19,2.94 mill. €,105.70 mill. €,2020,ligue-1
+Reims,34,23.1,25,3.09 mill. €,105.18 mill. €,2020,ligue-1
+Lens,36,24.9,16,2.90 mill. €,104.30 mill. €,2020,ligue-1
+Metz,35,24.6,25,2.96 mill. €,103.50 mill. €,2020,ligue-1
+Brest,32,25.2,9,3.23 mill. €,103.23 mill. €,2020,ligue-1
+Nantes,32,25.4,15,2.96 mill. €,94.75 mill. €,2020,ligue-1
+Lorient,34,26.4,14,2.14 mill. €,72.88 mill. €,2020,ligue-1
+Dijon,37,24.3,24,1.77 mill. €,65.63 mill. €,2020,ligue-1
+Nimes,36,24.9,18,1.68 mill. €,60.40 mill. €,2020,ligue-1
+Paris Saint Germain,41,25.7,27,21.35 mill. €,875.15 mill. €,2021,ligue-1
+Lyon,40,24.3,20,9.94 mill. €,397.70 mill. €,2021,ligue-1
+Monaco,41,23.3,22,9.66 mill. €,396.00 mill. €,2021,ligue-1
+Lille,41,24,28,7.48 mill. €,306.88 mill. €,2021,ligue-1
+Rennes,36,22.9,11,8.48 mill. €,305.35 mill. €,2021,ligue-1
+Marseille,38,23.5,21,7.49 mill. €,284.70 mill. €,2021,ligue-1
+Nice,34,23.8,20,7.83 mill. €,266.05 mill. €,2021,ligue-1
+Lens,35,24.8,17,4.40 mill. €,154.05 mill. €,2021,ligue-1
+Reims,40,23.5,27,3.74 mill. €,149.40 mill. €,2021,ligue-1
+Montpellier,36,24.8,16,4.02 mill. €,144.60 mill. €,2021,ligue-1
+Strasbourg,33,24.8,15,3.64 mill. €,120.05 mill. €,2021,ligue-1
+Bordeaux,54,24,33,2.16 mill. €,116.85 mill. €,2021,ligue-1
+Nantes,31,25.6,13,3.63 mill. €,112.65 mill. €,2021,ligue-1
+Saint-Etienne,44,24,20,2.40 mill. €,105.65 mill. €,2021,ligue-1
+Brest,30,25.4,9,3.44 mill. €,103.15 mill. €,2021,ligue-1
+Metz,41,25,27,2.22 mill. €,91.05 mill. €,2021,ligue-1
+Angers,38,25.4,19,2.36 mill. €,89.50 mill. €,2021,ligue-1
+Troyes,50,24.6,25,1.46 mill. €,73.20 mill. €,2021,ligue-1
+Lorient,35,25.4,13,1.75 mill. €,61.30 mill. €,2021,ligue-1
+Clermont Foot,39,25.1,20,1.41 mill. €,55.10 mill. €,2021,ligue-1
+Paris Saint Germain,26,25.7,17,34.40 mill. €,894.40 mill. €,2022,ligue-1
+Rennes,28,24.1,12,11.57 mill. €,323.95 mill. €,2022,ligue-1
+Monaco,27,23.9,15,11.22 mill. €,302.90 mill. €,2022,ligue-1
+Marseille,23,26,17,10.28 mill. €,236.35 mill. €,2022,ligue-1
+Lyon,25,25.5,9,8.30 mill. €,207.50 mill. €,2022,ligue-1
+Nice,27,24,17,7.08 mill. €,191.10 mill. €,2022,ligue-1
+Lille,23,25.7,14,8.07 mill. €,185.70 mill. €,2022,ligue-1
+Lens,27,25.7,16,5.89 mill. €,158.95 mill. €,2022,ligue-1
+Nantes,29,25.7,11,4.10 mill. €,118.85 mill. €,2022,ligue-1
+Montpellier,28,25.3,11,3.71 mill. €,103.90 mill. €,2022,ligue-1
+Strasbourg,26,26.5,11,3.59 mill. €,93.30 mill. €,2022,ligue-1
+Lorient,26,24.4,13,3.54 mill. €,92.10 mill. €,2022,ligue-1
+Reims,26,24.1,17,3.33 mill. €,86.55 mill. €,2022,ligue-1
+Troyes,29,25.1,16,2.42 mill. €,70.10 mill. €,2022,ligue-1
+Brest,24,25.2,9,2.74 mill. €,65.80 mill. €,2022,ligue-1
+Toulouse,30,24.2,26,2.16 mill. €,64.75 mill. €,2022,ligue-1
+Angers,30,24.7,14,2.02 mill. €,60.50 mill. €,2022,ligue-1
+Auxerre,33,25.5,19,1.35 mill. €,44.50 mill. €,2022,ligue-1
+Clermont Foot,23,26,13,1.43 mill. €,32.80 mill. €,2022,ligue-1
+Ajaccio,29,28.6,15,850 mil €,24.65 mill. €,2022,ligue-1
